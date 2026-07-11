@@ -7,7 +7,6 @@
 | Slide deck (leadership-facing) | `slides/Transcript_Intelligence_Findings.pptx` — ready to present, with full speaker notes on every slide. `slides/slide_deck_outline.md` is the source-of-truth content if you want to edit it. |
 | Notebook (technical reference) | `notebooks/Transcript_Intelligence_Analysis.ipynb` |
 | Reusable pipeline code | `transcript_intelligence/` |
-| Video demo script | `video/demo_script.md` |
 | Generated figures | `outputs/figures/` (embedded in both the notebook and the deck) |
 
 ## Quick start
